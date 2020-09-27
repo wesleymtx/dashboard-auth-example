@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dashboard-auth-example/static/css/main.5f361e03.chunk.css",
-    "main.js": "/dashboard-auth-example/static/js/main.848efd51.chunk.js",
-    "main.js.map": "/dashboard-auth-example/static/js/main.848efd51.chunk.js.map",
+    "main.js": "/dashboard-auth-example/static/js/main.c6eb9dba.chunk.js",
+    "main.js.map": "/dashboard-auth-example/static/js/main.c6eb9dba.chunk.js.map",
     "runtime-main.js": "/dashboard-auth-example/static/js/runtime-main.bbc4f726.js",
     "runtime-main.js.map": "/dashboard-auth-example/static/js/runtime-main.bbc4f726.js.map",
     "static/js/2.38274ced.chunk.js": "/dashboard-auth-example/static/js/2.38274ced.chunk.js",
     "static/js/2.38274ced.chunk.js.map": "/dashboard-auth-example/static/js/2.38274ced.chunk.js.map",
     "index.html": "/dashboard-auth-example/index.html",
-    "precache-manifest.e9f7a629b8e54a050e2379ce328bcb01.js": "/dashboard-auth-example/precache-manifest.e9f7a629b8e54a050e2379ce328bcb01.js",
+    "precache-manifest.45ec06a366cf445c5ff765ab09ba5f35.js": "/dashboard-auth-example/precache-manifest.45ec06a366cf445c5ff765ab09ba5f35.js",
     "service-worker.js": "/dashboard-auth-example/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/dashboard-auth-example/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.38274ced.chunk.js.LICENSE.txt": "/dashboard-auth-example/static/js/2.38274ced.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bbc4f726.js",
     "static/js/2.38274ced.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.848efd51.chunk.js"
+    "static/js/main.c6eb9dba.chunk.js"
   ]
 }
