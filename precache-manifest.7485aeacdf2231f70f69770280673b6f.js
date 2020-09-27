@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46f56234f6bd3424d82934cab2d42b20",
+    "revision": "f647525140b3ec7662b3b91d1b8a5df2",
     "url": "/dashboard-auth-example/index.html"
   },
   {
-    "revision": "5e7075e4057a92e49751",
+    "revision": "02e0812cfbd4ca6eb851",
     "url": "/dashboard-auth-example/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "1346b5a5d705b622a137",
-    "url": "/dashboard-auth-example/static/js/2.38274ced.chunk.js"
+    "revision": "204df8be350396ddd645",
+    "url": "/dashboard-auth-example/static/js/2.a52d7ae5.chunk.js"
   },
   {
     "revision": "4ba1a1c11c57ed15aa68008707a3d6b4",
-    "url": "/dashboard-auth-example/static/js/2.38274ced.chunk.js.LICENSE.txt"
+    "url": "/dashboard-auth-example/static/js/2.a52d7ae5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e7075e4057a92e49751",
-    "url": "/dashboard-auth-example/static/js/main.c6eb9dba.chunk.js"
+    "revision": "02e0812cfbd4ca6eb851",
+    "url": "/dashboard-auth-example/static/js/main.befa4d40.chunk.js"
   },
   {
     "revision": "1e97b8d3fc8f4e35b4c8",
